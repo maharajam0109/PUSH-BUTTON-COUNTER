@@ -8,7 +8,6 @@ Intern ID: CTIS088
 Mentor: Neela Santhosh
 
 TASK DESCRIPTION:
-Push Button Counter Using Arduino and LCD – Project Description
 
 The Push Button Counter using Arduino is a fundamental embedded systems project designed to demonstrate the interfacing of digital input devices, display modules, and microcontroller-based control logic. This task focuses on counting the number of times a push button is pressed and displaying the count value in real time on a 16×2 LCD. It helps in understanding basic concepts such as digital input handling, debouncing, LCD interfacing, and real-time data display.
 
