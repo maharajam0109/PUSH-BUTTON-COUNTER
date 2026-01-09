@@ -22,3 +22,10 @@ Power is supplied to the entire circuit through the Arduino’s 5V and GND pins.
 This project has practical relevance in many real-world applications. Push button counters are commonly used in digital tally systems, attendance counters, event counters, industrial machine cycle counters, and user interface controls. The simplicity of the design makes it ideal for beginners while still introducing essential embedded system concepts.
 
 Overall, the Push Button Counter task provides hands-on experience in hardware interfacing, microcontroller programming, and real-time system behavior. It strengthens understanding of digital electronics and embedded programming, making it a strong foundation project for further exploration in automation, IoT, and control systems.
+
+OUTPUT LINK: https://www.tinkercad.com/things/5e4FjABP5Fm-push-button-counter/editel?returnTo=https%3A%2F%2Fwww.tinkercad.com%2Fdashboard
+
+OUTPUT IMAGE:
+<img width="1477" height="713" alt="image" src="https://github.com/user-attachments/assets/df947d6c-be43-426a-899e-69d8eb6b288d" />
+
+
